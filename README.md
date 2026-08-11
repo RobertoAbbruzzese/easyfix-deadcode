@@ -85,9 +85,7 @@ This software is distributed under the Apache 2.0 License. See the `LICENSE` fil
 ---
 
 ## 👤 Author
-Roberto Abbruzzese
-[LinkedIn [(replace with your profile)](https://www.linkedin.com/in/roberto-abbruzzese-aa3b343b6/)
-](https://www.linkedin.com/in/roberto-abbruzzese-aa3b343b6/)
+Roberto Abbruzzese https://www.linkedin.com/in/roberto-abbruzzese-aa3b343b6/
 ---
 
 ## 🤝 Contributions
