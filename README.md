@@ -66,9 +66,10 @@ For all commands (`audit`, `apply`, `restore`), consult the full guide (attached
 ---
 
 ## 🖼️ Screenshots
-You can insert the images you captured here – for example:
+<img width="1842" height="1026" alt="Immagine" src="https://github.com/user-attachments/assets/bdee1a9c-5b0b-4646-b6b8-8ddf2ff88f91" />
+<img width="1842" height="1026" alt="Immagine2" src="https://github.com/user-attachments/assets/91faf6e3-2c07-4b03-951e-ab1a096479c8" />
+<img width="1842" height="1026" alt="Immagine3" src="https://github.com/user-attachments/assets/3061fc52-ffd5-4e6e-a4bd-95569af9ff22" />
 
-`https://screenshots/report-example.png`
 
 ---
 
