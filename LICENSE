@@ -1,0 +1,151 @@
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+Definitions.
+
+"License" means the terms and conditions for use, reproduction,
+and distribution as defined in Sections 1 through 9 of this
+document.
+
+"License Holder" or "Licensor" means the copyright owner or the
+entity authorized by the copyright owner that grants the
+License.
+
+"Legal Entity" means the union of the acting entity and all
+other entities that control it, are controlled by it, or are
+under common control. For the purposes of this definition,
+"control" means (i) the power, direct or indirect, to direct or
+cause the direction of such entity, whether by contract or
+otherwise, or (ii) ownership of fifty percent (50%) or more of
+the outstanding shares, or (iii) beneficial ownership of such
+entity.
+
+"Work" means the work of authorship, whether in source code or
+object form, made available under the License, as indicated by
+a copyright notice included in or attached to the work.
+
+"Derivative Work" means a work based on the Work or on the Works
+and on modifications, translations, adaptations, or other
+creations in which the Work may be recast, transformed, or
+adapted, including forms that may be readily recognized as
+derived from the original, but does not include works that
+remain separate from, or do not derive from, the Work.
+
+"Contribution" means any work of authorship, including the
+original version of the Work and any modification or addition to
+that Work or Derivative Work, that is intentionally submitted to
+the Licensor for inclusion in the Work by the copyright owner or
+by a natural or legal person authorized to submit on behalf of
+the copyright owner. For the purposes of this definition,
+"submitted" means any form of electronic, verbal, or written
+communication sent to the Licensor or its representatives,
+including but not limited to, communication on mailing lists,
+version control systems, and issue tracking systems managed by
+or on behalf of the Licensor, for the purpose of discussing and
+improving the Work, but excludes communication that is expressly
+marked or otherwise designated in writing by the copyright owner
+as "Not a Contribution".
+
+"Contributor" means the Licensor and any natural or legal person
+who has received the Work from the Licensor and who has
+subsequently contributed to the Work.
+
+Grant of copyright rights. Subject to the terms and conditions of
+this License, each Contributor hereby grants to the recipient a
+perpetual, worldwide, non‑exclusive, free‑of‑charge, royalty‑free,
+irrevocable license to reproduce, prepare Derivative Works,
+publicly display, publicly perform, distribute, and sublicense
+the Work and Derivative Works in source or object form.
+
+Grant of patent rights. Subject to the terms and conditions of
+this License, each Contributor hereby grants to the recipient a
+perpetual, worldwide, non‑exclusive, free‑of‑charge, royalty‑free,
+irrevocable (except as stated in this section) license to make,
+use, offer to sell, sell, import, and otherwise transfer the
+Work, where such license applies only to those patent claims
+licensable by the Contributor that are necessarily infringed by
+its Contribution or by the combination of its Contribution with
+the Work to which such Contribution was provided.
+
+Redistribution. You may reproduce and distribute copies of the
+Work or Derivative Works in any medium, with or without
+modifications, and in source or object form, provided that the
+following conditions are met:
+
+(a) You must give any other recipients of the Work or Derivative
+Works a copy of this License; and
+
+(b) You must cause any modified files to carry prominent notices
+stating that they have been modified; and
+
+(c) You must retain, in the source form of the Work or Derivative
+Works, all copyright, patent, trademark, and attribution
+notices of the Licensor; and
+
+(d) If the Work includes a "NOTICE" file as part of its
+distribution, then any Derivative Work that you distribute
+must include a readable copy of that attribution notice
+contained in such NOTICE file, excluding those that do not
+reasonably pertain to the Derivative Work.
+
+Disclaimer of warranty. The Work is provided "AS IS", without
+warranties of any kind, express or implied, including but not
+limited to, warranties of merchantability, fitness for a
+particular purpose, and non‑infringement. The entire risk as to
+the quality and performance of the Work is with you. Should the
+Work prove defective, you assume the cost of all necessary
+servicing, repair, or correction.
+
+Limitation of liability. In no event and under no legal theory,
+whether in tort (including negligence), contract, or otherwise,
+unless required by applicable law (such as deliberate or grossly
+negligent acts) or agreed to in writing, shall the Licensor or
+Contributors be liable to you for damages, including any direct,
+indirect, incidental, special, exemplary, or consequential
+damages (including, without limitation, loss of profits,
+goodwill, use, data, or other intangible losses), even if the
+Licensor or Contributor has been advised of the possibility of
+such damages.
+
+Attribution notices. You must retain all copyright, patent,
+trademark, and attribution notices of the original Work in all
+copies or Derivative Works. In addition, in each copy or
+Derivative Work, you must include a notice stating that the Work
+is licensed under the terms of this License and the address of
+the License.
+
+Automatic termination. This License and the rights granted
+under this License will terminate automatically if you fail to
+comply with the terms and conditions of this License. However,
+parties who have received Derivative Works from you under this
+License will not have their licenses terminated as long as such
+parties remain in full compliance.
+
+Disclaimer of warranty or limitation of liability. In some
+jurisdictions, the disclaimer of warranty or limitation of
+liability may not be permitted, so the above limitations may not
+apply.
+
+END OF TERMS AND CONDITIONS
+
+As required by the Apache License, the following notice must be
+included in all distributions:
+
+Copyright 2026 Roberto Abbruzzese (or your preferred name)
+
+Licensed under the Apache License, Version 2.0
+(the "License"); you may not use this file except in
+compliance with the License. You may obtain a copy of the
+License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing,
+software distributed under the License is distributed on an
+"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
+either express or implied. See the License for the specific
+language governing permissions and limitations under the
+License.
