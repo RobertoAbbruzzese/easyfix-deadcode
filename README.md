@@ -23,7 +23,7 @@ The goal is to help developers and teams keep codebases clean, reduce technical 
 - Call graph and **BFS** from entry points to determine reachability.
 - Detailed **JSON report** with a confidence level for each symbol.
 - **Safe quarantine**: comments out suspicious code with a unique marker, allowing restoration via `efdc restore <id>`.
-- **Strict Go mode** (from v4.3.8) to avoid false positives in projects using dependency injection.
+- **Strict Go mode** to avoid false positives in projects using dependency injection.
 
 ---
 
